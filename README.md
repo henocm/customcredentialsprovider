@@ -1,5 +1,5 @@
 # customcredentialsprovider
-Custom credentials provider  for EMR on AWS, using Temporary Credentials
+Custom credentials provider  for EMR on AWS, using IAM Environment Variable Credentials
 
 ### BUILD
 On Master node of the EMR cluster:
